@@ -1,6 +1,6 @@
 /*=======================================================
 	
-	
+	Item	: 	N5 - Minimal Resume/CV & vCard Template	
 --------------------------------------------------------------------------------------
 	List Of Contents
 --------------------------------------------------------------------------------------
@@ -173,7 +173,6 @@ body.border-dark .main-content > .page-border{
 .main-content > .border-left{
 	left:14px;
 }
-
 
 /*=======================================================
 	Section Styles
@@ -612,12 +611,12 @@ body.section-switching.up .animation-block{
 	position:relative;
 	z-index:5;
 }
-.service > .content > h4{
-	color:#202020;
-	letter-spacing:2px;
-	text-transform:uppercase;
-	margin:25px 0;
-}
+    .service > .content > h4 {
+        color: #202020;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        margin: 25px 0;
+    }
 .service > .content > p{
 	line-height:1.6em;
 	color:rgba(0,0,0,.4);
