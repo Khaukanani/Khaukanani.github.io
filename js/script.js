@@ -132,7 +132,7 @@ $(function(){
 			
 			$.ajax({
 			
-				url: 'mail.php',
+				url: '//formspree.io/klawrence026@gmail.com',
 				type: 'post',
 				data: $this.serialize(),
 				success: function(data){
