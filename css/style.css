@@ -95,7 +95,7 @@ body.border-dark .menu-btn > .lines > span{
 }
 .menu:hover,
 .menu-btn:hover + .menu{
-	width:300px;
+	width:270px;
 }
 .menu > .inner{
 	height:100%;
