@@ -132,7 +132,7 @@ $(function(){
 			
 			$.ajax({
 			
-				url: "https://formspree.io/klawrence026@gmail.com",
+				url: 'mail.php',
 				type: 'post',
 				data: $this.serialize(),
 				success: function(data){
@@ -173,9 +173,8 @@ $(function(){
 				}
 			});
 		}
-		
 	});
 	
-	
 	*/
+	
 });
